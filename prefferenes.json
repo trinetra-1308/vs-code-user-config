@@ -1,0 +1,31 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.hover.enabled": false,
+
+    "editor.snippetSuggestions": "none",
+    "editor.wordBasedSuggestions": "off",
+
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off",
+
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+
+    "editor.suggest.showSnippets": false,
+    "editor.suggest.showWords": false,
+    "editor.suggest.showFiles": true,
+    "editor.suggest.showFolders": true,
+
+    "editor.suggestSelection": "recentlyUsed",
+
+    "python.analysis.autoImportCompletions": false,
+
+    "editor.tabCompletion": "off",
+
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never"
+}
